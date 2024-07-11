@@ -1,6 +1,6 @@
 #match case statements
 #like switch case in c .
-
+# A simple calculator
 a=int(input("enter a number:"))
 b=int(input("enter a number:"))
 print("1.Add 2.Sub 3.multiply 4.Divide")
